@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RecyclerView Project</string>
+    <string name="display">playing song</string>
+</resources>
